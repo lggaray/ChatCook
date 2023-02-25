@@ -1,4 +1,4 @@
-# HealthyBite-AI: a KGQA system for personalized healthy cooking
+# ChatCook: A Cooking Knowledge-Based Question Answering System For Personalized Nutrition of Chinese
 ## Personalized Nutrition Question Answering System
 This is a repository for a personalized nutrition question answering system designed to provide accurate 
 and relevant answers to a wide range of questions related to nutrition and cooking. 
