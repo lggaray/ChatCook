@@ -24,7 +24,7 @@ Then, run the `main.py`  script for running the system in console.
 To run the system in localhost with a web interface, please run the `web_main.py` instead.
 
 ## Usage (web app)
-To access the system running in our servers, please access to: 
+To access the system running in our servers, please access to: https://dc1f-210-32-139-171.ngrok.io/
 
 If the link is unaccessible, please contact us.
 
